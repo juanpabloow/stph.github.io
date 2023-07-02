@@ -1,0 +1,81 @@
+* {
+    font-family: 'Belanosima', sans-serif;
+    font-size: 30px;
+}
+
+
+.index-body {
+    background-color: rgb(56, 53, 58);
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;    
+}
+
+.button {
+    padding: 0 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(56, 53, 58);
+    color: white;
+}
+
+.box1 {
+    padding: 20px;
+}
+
+
+.container2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.box2 {
+    padding: 40px 0px 0px 0px;
+}
+
+.img-spiderman {
+    width: 250px;
+}
+
+
+.box22 {
+    align-self: flex-end;
+}
+
+.img-ring {
+    width: 150px;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box3 {
+    padding: 40px 10px 40px 40px;
+}
+
+.button-PD {
+   background-color: rgb(243, 34, 7);
+   padding: 0 30px;
+}
+
+.button-PD a {
+    color: white;
+}
